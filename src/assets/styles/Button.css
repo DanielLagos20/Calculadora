@@ -1,0 +1,22 @@
+.button {
+  flex: 1;
+  border-radius: 10px;
+  font-size: 2rem;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 0;
+}
+
+.button-number {
+  background-color: #333;
+}
+.button-number:hover {
+  background-color: #434242;
+}
+.button-operator {
+  background-color: #fb9f0a;
+}
+.button-operator:hover {
+  background-color: #fb9f0ae0;
+}
